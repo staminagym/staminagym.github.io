@@ -2088,7 +2088,7 @@
 /* Intro */
 
 	#intro {
-		background: url("../../images/home.jpg");
+		background: url("../../images/Home.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2098,7 +2098,7 @@
 /* One */
 
 	#one {
-		background: url("../../images/about.jpg");
+		background: url("../../images/About.jpg");
 		background-size: 512px 512px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2107,7 +2107,7 @@
 /* Two */
 
 	#two {
-		background:url("../../images/team.jpg");
+		background:url("../../images/Team.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
