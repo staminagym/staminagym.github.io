@@ -2088,7 +2088,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/home.jpg");
+		background: url("../../images/home.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2098,17 +2098,16 @@
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/about.jpg");
+		background: url("../../images/about.jpg");
 		background-size: 512px 512px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
-		background-color: red;
 	}
 
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/team.jpg");
+		background:url("../../images/team.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
