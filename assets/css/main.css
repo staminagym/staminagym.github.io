@@ -2175,12 +2175,14 @@
 #new
 {
 	color:black;
-	padding-left: 25px;
-	padding-right: 25px;
-	margin-right: 25px;
+	padding-left: 1.5625em;
+	padding-right: 1.5625em;
+	margin-right: 1.5625em;
 	background-color: lightgreen;
 	opacity: 0.65;
 	width: 75%;
+	padding-top: 0.625em;
+	padding-bottom: 0.625em;
 }
 
 
@@ -2197,4 +2199,9 @@ a
 .from-right
 {
 	margin-right: 10px;
+}
+
+.smallheading
+{
+	font-size: 1.35em;
 }
