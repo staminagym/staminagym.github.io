@@ -1736,6 +1736,14 @@
 					display: none;
 				}
 
+				#image1
+				{
+					display: none;
+				}
+				#new
+				{
+					width: 100% !important;
+				}
 		}
 
 	body {
@@ -2171,6 +2179,7 @@
 	margin-right: 25px;
 	background-color: lightgreen;
 	opacity: 0.65;
+	width: 75%;
 }
 
 
